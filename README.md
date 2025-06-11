@@ -8,7 +8,7 @@
 > ### Ficheros disponibles
 > Para una correcta realización del taller, ponemos a vuestra disposición un conjunto de ficheros XML para cargarlos a Alma así como una guía de los ejercicios a realizar:
 > - [XML de las cartas](Ejemplos/)
-> - [Guía del taller](Guia/)
+> - [Guía del taller](https://github.com/pmasotagne/expania2025/raw/main/Guia.pdf)
 
 > [!NOTE]
 > ### Enlaces externos (documentación Ex-Libris)
