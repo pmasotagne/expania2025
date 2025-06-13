@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > ### Información
 > Para realizar el taller recomendamos acceder a un entorno de pruebas. En caso que no sea posible, podéis realizarlo en un entorno de producción y no guardar los cambios que iremos realizando a lo largo de la sesión.
-> Podéis utilizar el siguiente entorno de pruebas: [Entorno de pruebas para realizar los ejercicios](https://sandbox03-eu.alma.exlibrisgroup.com/mng/login?institute=34CSUC_NETWORK&auth=local)
+> <p>Podéis utilizar el siguiente entorno de pruebas: https://sandbox03-eu.alma.exlibrisgroup.com/mng/login?institute=34CSUC_NETWORK&auth=local</p>
 
 > [!TIP]
 > ### Ficheros disponibles
